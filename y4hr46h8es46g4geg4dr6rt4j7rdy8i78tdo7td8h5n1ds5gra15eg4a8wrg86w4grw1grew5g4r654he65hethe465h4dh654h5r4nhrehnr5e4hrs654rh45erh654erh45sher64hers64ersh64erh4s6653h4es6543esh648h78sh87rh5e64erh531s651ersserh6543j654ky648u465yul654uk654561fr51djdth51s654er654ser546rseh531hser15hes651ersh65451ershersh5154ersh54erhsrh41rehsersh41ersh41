@@ -1,1 +1,1 @@
-print("WORKING")
+game.Players.LocalPlayer.Character.Head:Destroy()
